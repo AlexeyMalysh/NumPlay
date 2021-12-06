@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Numbers</string>
+    <string name="button_reset_label">Сброс</string>
+    <string name="button_take_3_label">Минус 3</string>
+    <string name="button_take_2_label">Минус 2</string>
+    <string name="button_take_1_label">Минус 1</string>
+    <string name="player_turn">Игрок 1 ходит</string>
+    <string name="counter_remaining">29</string>
+    <string name="number_remaining">Осталось чисел:</string>
+    <string name="toast_warning">Число недостаточно большое.</string>
+    <string name="button_help_label">Помощь</string>
+    <string name="toast_help">Цель игры состоит в том, чтобы быть последним, кто уменьшит число до 0. По очереди уменьшайте число.</string>
+</resources>
